@@ -4,6 +4,14 @@
 - 🌱 I’m currently pursuing MS in Computer Science
 - 📫 You can connect me by send me the mail on the my [Email](akshagpatel1997@gmail.com)
 
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akshaysukhadiya41)](https://github.com/akshaysukhadiya41/leetcode-stats)-->
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akshaysukhadiya41&theme=dark)](https://github.com/akshaysukhadiya41/leetcode-stats)-->
+
+### Languages and Tools
+<img src="https://img.shields.io/badge/-ReactNative-333333?logo=react" /> <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript" /> <img src="https://img.shields.io/badge/-TypeSript-333333?logo=typescript" /> <img src="https://img.shields.io/badge/-ReactJs-333333?logo=react" /> <img src="https://img.shields.io/badge/-Python-333333?logo=python" /> <img src="https://img.shields.io/badge/-C++-333333?logo=C%2b%2b&logoColor=044F88" /> <img src="https://img.shields.io/badge/-NodeJs-333333?logo=nodedotjs" /> <img src="https://img.shields.io/badge/-HTML-333333?logo=html5" /> <img src="https://img.shields.io/badge/-CSS-333333?logo=css3" />
+
+<img src="https://img.shields.io/badge/-FireBase-333333?logo=firebase" /> <img src="https://img.shields.io/badge/-GitHub-333333?logo=github" /> <img src="https://img.shields.io/badge/-GitLab-333333?logo=gitlab" /> <img src="https://img.shields.io/badge/-NPM-333333?logo=npm" /> <img src="https://img.shields.io/badge/-AWS-333333?logo=amazonaws&logoColor=orange" /> <img src="https://img.shields.io/badge/-MongoDB-333333?logo=mongodb" /> <img src="https://img.shields.io/badge/-MySql-333333?logo=mysql" />
+
 ## My projects and the overview of the project and my role in the projects
 ### PENTAIR
 - This app provides instructions and the real-time monitoring of IoT devices used for Effortless pool care at your fingertips.
